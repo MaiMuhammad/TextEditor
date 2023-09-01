@@ -1,7 +1,7 @@
 <h1>TextEditor</h1>
 
 ## Description
-This is a simple program that allows users to manipulate text files using various operations.This C++ program was developed as an assignment for the FCAI – Programming 1 course in May 2022.
+This is a simple program that allows users to manipulate text files using various operations. The program was developed as an assignment for the FCAI – Programming 1 course in May 2022.
 
 ## Features
 - Adding new text to a file
